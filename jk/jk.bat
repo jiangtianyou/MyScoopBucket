@@ -9,4 +9,8 @@ FOR /F %%i IN (%tmpfile%) DO (
 
 del %tmpfile%
 
+@echo on
+
+echo "Success remote all java process！" 
+
 
