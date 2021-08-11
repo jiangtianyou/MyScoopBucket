@@ -2,5 +2,5 @@
 
 
 
-`scoop export > %date%%time%-installed.txt`
+`scoop export > 2021-08-01-installed-list.txt`
 
