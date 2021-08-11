@@ -1,4 +1,4 @@
-echo "当前目录："
+echo "Current Dir"
 pwd
 git add -A && git commit -m "%date%%time%" && git push
 pause
