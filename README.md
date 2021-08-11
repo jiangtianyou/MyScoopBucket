@@ -25,11 +25,13 @@
 ## Manifest 
 
 - jk
+  
   “java kill”的简写。关闭所有java进程。用于启动应用时，出现port xxxx in use 的情况。
-
+  
 - push
+  
   提交git所有内容到远程仓库。为了避免繁琐的 `git add -A &7 git commit -m "xx" && git push` 命令。
-
+  
 - proxy
 
   设置命令行代理。代理到本地10809（v2ray端口）。用于git、curl、wget、scoop、arial2获取远程资源，网络连接不到。 
