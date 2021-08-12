@@ -26,7 +26,7 @@
 
 - jk
   
-  “java kill”的简写。关闭所有java进程。用于启动应用时，出现port xxxx in use 的情况。
+  “java kill”的简写。关闭所有java进程。用于启动应用时，出现port xxxx in use 的情况，简化了查找端口，查找pid，然后kill的繁琐操作。
   
 - push
   
