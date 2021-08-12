@@ -9,7 +9,7 @@ if NOT %v2rayon%==1  (
 	start /B v2rayn
 )
 
-rem set proxy environment,usually supported by net tools
+rem set proxy environment variables,usually supported by net tools
 
 set https_proxy=localhost:10809
 set http_proxy=localhost:10809
