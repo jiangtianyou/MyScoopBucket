@@ -2,13 +2,13 @@
 
 
 
-安装一些编写的脚本，使用[Scoop](https://github.com/lukesampson/scoop)进行管理。
+安装一些编写的脚本，使用[Scoop](https://github.com/lukesampson/scoop)进行管理，方便修改升级，同时避免环境变量。
 
 ## Get Start
 
-添加本Bucket到git scoop。
+添加本bucket到scoop。
 
-`scoop bucket add myscoop https://github.com/jiangtianyou/MyScoopBucket`
+`scoop bucket add mybucket https://github.com/jiangtianyou/MyScoopBucket`
 
 
 
@@ -34,7 +34,7 @@
   
 - proxy
 
-  设置命令行代理。代理到本地10809（v2ray端口）。用于git、curl、wget、scoop、arial2获取远程资源，网络连接不到。 
+  设置命令行代理。代理到本地10809（v2ray端口）。检测本地没有运行v2ray自动启动v2rayN，你不需要手动启动。用于git、curl、wget、scoop、arial2等获取远程资源时，网络连接不到的情况。 
 
   
 
