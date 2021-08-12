@@ -1,5 +1,5 @@
 { 
-	"version": "1.1", 
+	"version": "1.2", 
 	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/proxy/proxy.bat",
 	"description":"set cmd proxy variables (https_prxy|http_proxy) to localhost:10809",
 	"bin": "proxy.bat" 

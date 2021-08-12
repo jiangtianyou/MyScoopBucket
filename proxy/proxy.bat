@@ -1,5 +1,5 @@
 @echo off
-rem 需要使用^对|进行escape,否则会直接被当做for语法内容解析
+rem use ^ to escape | , otherwise | will be parsed as part of for syntax , that could cause cmd synax error.
 set v2rayon=0
 for /F "delims=" %%i in ('ps -ef ^| grep v2rayN ^| wc -l') DO (
 	set v2rayon=%%i
@@ -9,7 +9,7 @@ if NOT %v2rayon%==1  (
 	start /B v2rayn
 )
 
-rem set proxy environment variables,usually supported by net tools
+rem set proxy environment,usually supported by net tools
 
 set https_proxy=localhost:10809
 set http_proxy=localhost:10809
