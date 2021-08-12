@@ -2,7 +2,7 @@
 
 
 
-安装一些编写的脚本，使用[Scoop](https://github.com/lukesampson/scoop)进行管理，方便修改升级，同时避免环境变量。
+安装一些编写的脚本，使用[Scoop](https://github.com/lukesampson/scoop)进行管理，方便修改升级，避免污染环境变量。
 
 ## Get Start
 
