@@ -36,7 +36,11 @@
 
   设置命令行代理。代理到本地10809（v2ray端口）。检测本地没有运行v2ray自动启动v2rayN，你不需要手动启动。用于git、curl、wget、scoop、arial2等获取远程资源时，网络连接不到的情况。 
 
-  
+- datetime
+
+  获取当前datetime 
+
+
 
 
 
