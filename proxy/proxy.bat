@@ -11,8 +11,8 @@ if NOT %v2rayon%==1  (
 
 rem set proxy environment,usually supported by net tools
 
-set https_proxy=localhost:10809
-set http_proxy=localhost:10809
+set https_proxy=localhost:1081
+set http_proxy=localhost:1081
 
 echo set https_proxy=%https_proxy%
 echo set http_proxy=%http_proxy%
