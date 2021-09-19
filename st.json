@@ -1,0 +1,6 @@
+{ 
+	"version": "1.0", 
+	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/bins/st.bat",
+	"description":"shortcut for serivce runtest(used for start bpe service runtest)",
+	"bin": "st.bat" 
+}

@@ -1,0 +1,6 @@
+{ 
+	"version": "1.0", 
+	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/bins/sv.bat",
+	"description":"shortcut for serivce (used for start bpe service)",
+	"bin": "sv.bat" 
+}
