@@ -40,6 +40,11 @@
 
   获取当前datetime 
 
+- sv
+  service 的缩写，用来运行bpe项目
+- st
+  service runtest的缩写，用来跑bep项目的 service runtest命令
+
 
 
 
