@@ -1,6 +1,8 @@
+@echo off
 rem go to location of invoking this bat
 cd %CD%
-pwd
+@echo on
+
 git add -A && git commit -m "%date%%time%" && git push
 pause
 
