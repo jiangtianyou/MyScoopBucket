@@ -1,6 +1,6 @@
 { 
-	"version": "1.0", 
-	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/datetime/datetime.bat",
+	"version": "1.1", 
+	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/bins/datetime.bat",
 	"description":"get current datetime in yyyy-MM-ddThh:mm:ss format",
 	"bin": "datetime.bat" 
 }
