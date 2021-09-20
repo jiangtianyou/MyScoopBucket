@@ -1,5 +1,5 @@
 { 
-	"version": "1.3", 
+	"version": "1.4", 
 	"url": "https://raw.githubusercontent.com/jiangtianyou/MyScoopBucket/main/bins/push.bat",
 	"description":"Quick push all content to remote git repo",
 	"bin": "push.bat" 
