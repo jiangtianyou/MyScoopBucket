@@ -5,7 +5,7 @@ FOR /F %%i IN (%tmpfile%) DO (
 	taskkill /F /PID %%i
 )
 del %tmpfile%
-@echo on
 echo "Success remote all java process!" 
+@echo on
 
 
